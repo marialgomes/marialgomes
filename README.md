@@ -1,7 +1,8 @@
 ### Oie! Eu sou a Maria Luiza
-
-- 🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas
-- ✏️ Estudando HMTL, CSS e JS
+ 
+- 👩‍💻 Atualmente cursando Análise e Desenvolvimento de Sistemas
+- 🎓 Graduada em Farmácia
+- ✏️ Em transição de carreira
 - 🏳️‍🌈 Pronomes: ela/dela
 
 <div>
