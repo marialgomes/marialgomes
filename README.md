@@ -1,7 +1,7 @@
 ### Hello! :)
  
 - 👩‍💻 I'm a analysis and systems dvelopment student
-- 🎓 I’m currently working as a Data Engineering Intern 
+- 🎓 I’m currently working as a Data Engineering
 - 🏳️‍🌈 Pronouns: she/her
 
 
