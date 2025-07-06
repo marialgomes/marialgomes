@@ -1,8 +1,14 @@
 ### Hello! :)
  
-- 👩‍💻 I'm a analysis and systems dvelopment student
-- 🎓 I’m currently working as a Data Engineering
-- 🏳️‍🌈 Pronouns: she/her
+👩‍💻 Hi there! I'm Maria Luiza, a Data Engineer working with cloud-native data platforms.
+
+🌐 Currently working at Petlove&Co, where I help build and maintain data pipelines, support data governance, and operate infrastructure on Google Cloud Platform (GCP).
+
+🚀 Tools & Tech: Python · Spark · SQL · BigQuery · Airflow · Terraform · Grafana · GCP · AWS
+
+🎓 Degree in Systems Analysis and Development | Background in Pharmacy
+
+🌈 Pronouns: she/her
 
 
  <div>
